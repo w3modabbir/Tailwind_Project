@@ -7,7 +7,9 @@ tailwind.config = {
           'peracolor': '#161722',
           'bottuncolor': '#FFD2A4',
           'bgcolor': '#FFF5EB',
-          'joinbg': '#F5F2F0'
+          'joinbg': '#F5F2F0',
+          border: "rgba'(255, 255, 255, 0.15);'",
+          
         },
         maxWidth: {
             'container': '1280px',
