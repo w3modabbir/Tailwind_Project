@@ -11,6 +11,9 @@ tailwind.config = {
           border: "rgba'(255, 255, 255, 0.15);'",
           
         },
+        outlineWidth: {
+          outline: '0px',
+        },
         maxWidth: {
             'container': '1280px',
         },
